@@ -1,2 +1,16 @@
 # Java-Based-GUI-Application-for-Managing-Teacher-Records
-This project is a Java-based GUI application developed using Swing and AWT to manage and store details of Lecturers and Tutors. It involves the implementation of object-oriented programming concepts, particularly inheritance, by creating class diagrams for Teacher, Lecturer, and Tutor. A graphical user interface was designed using various Swing components like JFrames, JPanels, JLabels, JTextFields, and JButtons. The application allows users to add, display, grade, and clear teacher records, with functionality to switch between Lecturer and Tutor interfaces. Event handling was implemented to respond to user actions, and exception handling was used to manage invalid inputs. Pseudocode was written to outline the program logic, and multiple tests were  performed to ensure the program ran as expected. Throughout development, various errors syntax, semantic, and logical were identified and corrected, improving the overall functionality and reliability of the application. This project helped reinforce Java programming skills and provided hands-on experience with building interactive, object-oriented applications.
+ Teacher Management System (Java GUI)
+This Java-based GUI application allows users to manage information about Lecturers and Tutors using Swing and AWT. Features include:
+- Add, display, and remove teacher data
+- Grade lecturers based on experience
+- Set tutor salary and performance index
+- Clear input fields and switch between views
+
+## Technologies Used
+- Java
+- Swing & AWT
+- OOP Concepts (Inheritance, Polymorphism)
+- Exception & Event Handling
+
+## Author
+Samarpan Khadka 
